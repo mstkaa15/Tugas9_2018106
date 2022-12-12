@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tugas8_2018106</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="deskription_menu">This Is a homemade furniture from mus furnitures</string>
+    <string name="ingredients"> Furnitures</string>
+    <string name="Resep">Chair, Table, Mirror, Soffa</string>
+    <string name="Price">Price</string>
+    <string name="Harga_barang">Affordable Prices</string>
+    <string-array name="Furnitures">
+        <item>Chair</item>
+        <item>Table</item>
+        <item>Mirror</item>
+    </string-array>
+    <string-array name="Star">
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>5.0</item>
+    </string-array>
+    <string-array name="Harga">
+        <item>Rp. 100.000</item>
+        <item>Rp. 300.000</item>
+        <item>Rp. 200.000</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

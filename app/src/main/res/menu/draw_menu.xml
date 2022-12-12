@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/ic_order"
+            android:title="Order" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_baseline_notifications_active_24"
+            android:title="Notification" />
+        <item
+            android:id="@+id/nav_ManageItem"
+            android:icon="@drawable/ic_baseline_settings_system_daydream_24"
+            android:title="Manage Item" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_RestAPI"
+            android:icon="@drawable/ic_baseline_wifi_tethering_24"
+            android:title="Rest API" />
+    </group>
+</menu>
